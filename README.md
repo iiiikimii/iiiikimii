@@ -144,43 +144,53 @@ IoT-based RFID attendance system using ESP32 with web-based monitoring.
 
 ---
 
-<!-- GitHub Statistics -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=iiiikimii&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1"
-    height="180"
-    alt="GitHub Statistics"
-  />
+<h2 align="center">📊 GitHub Analytics</h2>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiiikimii&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1"
-    height="180"
-    alt="Top Languages"
-  />
+<!-- Live badges (shields.io - stabil, tidak butuh Vercel) -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/iiiikimii?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/iiiikimii?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=38BDF8" alt="Stars" />
+  <img src="https://img.shields.io/badge/Repos-Public-0D1117?style=for-the-badge&logo=git&logoColor=22D3EE" alt="Repos" />
+  <img src="https://komarev.com/ghpvc/?username=iiiikimii&label=Profile+Views&style=for-the-badge&color=22D3EE&labelColor=0D1117" alt="Profile Views" />
 </p>
 
-<!-- GitHub Streak -->
+<!-- Streak -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=iiiikimii&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE"
+    src="https://streak-stats.demolab.com?user=iiiikimii&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8"
     alt="GitHub Streak"
   />
 </p>
 
-<!-- Contribution Graph -->
+<!-- Stats & Top Languages (digenerate oleh GitHub Actions, lihat .github/workflows/profile-assets.yml) -->
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=iiiikimii&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=38BDF8&area=true&hide_border=true"
-    alt="Contribution Graph"
-  />
+  <img height="190" src="https://raw.githubusercontent.com/iiiikimii/iiiikimii/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img height="190" src="https://raw.githubusercontent.com/iiiikimii/iiiikimii/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
 </p>
+
+<!-- Contribution Snake -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiiikimii/iiiikimii/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iiiikimii/iiiikimii/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/iiiikimii/iiiikimii/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+<!-- Contribution Chart (stabil) -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/22d3ee/iiiikimii" alt="Contribution Chart" width="90%" />
+</p>
+
+---
 
 <!-- Connect -->
 <p align="center">
   <a href="https://github.com/iiiikimii">
-    <img
-      src="https://img.shields.io/badge/GitHub-iiiikimii-22D3EE?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-iiiikimii-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<p align="center">
+  <i>"Build things. Break things. Learn from both."</i> ✨
 </p>
