@@ -162,12 +162,6 @@ IoT-based RFID attendance system using ESP32 with web-based monitoring.
   />
 </p>
 
-<!-- Stats & Top Languages (digenerate oleh GitHub Actions, lihat .github/workflows/profile-assets.yml) -->
-<p align="center">
-  <img height="190" src="https://raw.githubusercontent.com/iiiikimii/iiiikimii/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
-  <img height="190" src="https://raw.githubusercontent.com/iiiikimii/iiiikimii/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
-</p>
-
 <!-- Contribution Snake -->
 <p align="center">
   <picture>
