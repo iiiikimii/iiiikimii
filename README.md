@@ -144,37 +144,43 @@ IoT-based RFID attendance system using ESP32 with web-based monitoring.
 
 ---
 
-### 📊 GitHub Statistics
-
+<!-- GitHub Statistics -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimiBashori&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimiBashori&layout=compact&hide_border=true&title_color=22D3EE&text_color=CBD5E1&bg_color=0D1117" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=iiiikimii&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1"
+    height="180"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiiikimii&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
----
-
-### 📈 Contribution
-
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KimiBashori&hide_border=true&background=0D1117&stroke=30363D&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=8B949E" />
+  <img
+    src="https://streak-stats.demolab.com?user=iiiikimii&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE"
+    alt="GitHub Streak"
+  />
 </p>
 
----
-
-### 🌐 Connect
-
+<!-- Contribution Graph -->
 <p align="center">
-  <a href="https://github.com/KimiBashori">
-    <img src="https://img.shields.io/badge/GitHub-KimiBashori-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iiiikimii&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=38BDF8&area=true&hide_border=true"
+    alt="Contribution Graph"
+  />
+</p>
+
+<!-- Connect -->
+<p align="center">
+  <a href="https://github.com/iiiikimii">
+    <img
+      src="https://img.shields.io/badge/GitHub-iiiikimii-22D3EE?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Build. Learn. Improve. Repeat."</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
 </p>
