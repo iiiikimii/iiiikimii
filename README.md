@@ -33,7 +33,7 @@ I enjoy learning by turning ideas into real projects, experimenting with differe
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,php,python,go,html,mysql,postgres,git,figma" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,php,python,go,html,mysql,postgres,figma" />
 </p>
 
 ---
