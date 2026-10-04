@@ -58,13 +58,29 @@ I'm especially interested in:
 ### Database & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mqtt" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Hardware & Communication
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/RFID-143F66?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Tools & Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,canva,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
@@ -174,7 +190,7 @@ JavaScript · Web Development
 
 <td width="50%">
 
-<h3>🍔 sistem kasir</h3>
+<h3>🍔 sistem-kasir</h3>
 
 <p>
 Restaurant cashier and management system developed for <b>Dapur Ina Aina</b>, covering ordering, transactions, products, users, and sales reporting.
@@ -295,7 +311,7 @@ Learn something new. Build something useful.
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/iiiikimii?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" alt="Followers" />
@@ -307,17 +323,6 @@ Learn something new. Build something useful.
   <img
     src="https://streak-stats.demolab.com?user=iiiikimii&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8"
     alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=iiiikimii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiiikimii&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
   />
 </p>
 
@@ -342,35 +347,6 @@ Learn something new. Build something useful.
 
 ---
 
-## 📈 My Development Journey
-
-```text
-2024 ─────────────── Automation & Web Development
-                         │
-                         ▼
-2025 ─────────────── Full-Stack & Backend
-                         │
-                         ▼
-2026 ─────────────── AI · IoT · Software Engineering
-                         │
-                         ▼
-2026+ ────────────── Build More · Learn More
-```
-
----
-
-## 💡 Development Philosophy
-
-<p align="center">
-
-<b>Don't wait until you know everything.</b><br>
-Build something. Make mistakes. Understand why it broke.<br>
-Fix it. Improve it. Build something better.
-
-</p>
-
----
-
 ## 🤝 Connect
 
 <p align="center">
@@ -382,10 +358,6 @@ Fix it. Improve it. Build something better.
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iiiikimii&color=22D3EE&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
 
 <p align="center">
   <i>"Build things. Break things. Learn from both."</i> ✨
