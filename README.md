@@ -177,7 +177,7 @@ Cashier and restaurant management system for **Dapur Ina Aina**, covering orderi
 
 `React` `Node.js` `JavaScript` `MySQL`
 
-<a href="https://github.com/iiiikimii/sistem-kasir">
+<a href="https://github.com/iiiikimii/Sistem_Kasir">
   <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
