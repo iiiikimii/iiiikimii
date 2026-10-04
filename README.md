@@ -1,3 +1,4 @@
+```html
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=850&color=22D3EE&center=true&vCenter=true&width=750&lines=Informatics+Student;Full-Stack+Developer;Automation+Enthusiast;AI+%26+IoT+Explorer;Building+and+Learning+Every+Day"
@@ -31,15 +32,15 @@ My projects range from **full-stack web applications and automation systems to A
 
 I learn best by building things, breaking things, and figuring out how to make them work better.
 
-* 🎓 Informatics Student
-* 💻 Full-Stack Web Development
-* 🤖 Automation & Bot Development
-* 🧠 AI & Machine Learning Exploration
-* 📡 IoT & ESP32
-* 🎮 Interactive & Game Applications
-* 🎨 UI/UX Design
-* ⚙️ Backend & API Development
-* 🚀 Always learning and building
+- 🎓 Informatics Student
+- 💻 Full-Stack Web Development
+- 🤖 Automation & Bot Development
+- 🧠 AI & Machine Learning Exploration
+- 📡 IoT & ESP32
+- 🎮 Interactive & Game Applications
+- 🎨 UI/UX Design
+- ⚙️ Backend & API Development
+- 🚀 Always learning and building
 
 ---
 
@@ -83,7 +84,9 @@ I learn best by building things, breaking things, and figuring out how to make t
 ## 🚀 Featured Projects
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🎮 GameHub
@@ -102,6 +105,26 @@ A full-stack game platform designed to bring multiple gaming-related features in
 
 <td width="50%" valign="top">
 
+### 🎮 v2 — Don't Trust The Game
+
+A psychological 2D puzzle game built with Flutter and Flame, featuring an interactive story, deceptive instructions, glitches, and multiple endings.
+
+**Tech Stack**
+
+`Flutter` `Dart` `Flame` `Game Development`
+
+<a href="https://github.com/iiiikimii/v2">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
 ### 🤖 frontend-bot
 
 Social media automation web application for managing automated comment processes and multiple accounts.
@@ -115,9 +138,7 @@ Social media automation web application for managing automated comment processes
 </a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 🗳️ voting-frontend
@@ -134,6 +155,10 @@ Modern frontend for a digital voting system with a clean interface and structure
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### ⚙️ voting-backend
@@ -149,9 +174,7 @@ Backend service for the digital voting system, providing APIs and application lo
 </a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 xray-autoencoder
@@ -168,6 +191,10 @@ Machine learning project exploring an autoencoder approach for X-ray image proce
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### 👨‍💼 kimmanage
@@ -183,9 +210,7 @@ Management-oriented software project focused on organizing data and application 
 </a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 🍔 sistem-kasir
@@ -202,6 +227,10 @@ Cashier and restaurant management system for **Dapur Ina Aina**, covering orderi
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### 📡 rfidxiot
@@ -217,7 +246,21 @@ IoT-based RFID attendance system using ESP32, MQTT, and a web-based monitoring s
 </a>
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🚀 More Projects
+
+I'm continuously building new applications, experiments, tools, and games to expand my portfolio and learn new technologies.
+
+**Current Goal**
+
+`Build → Learn → Improve → Repeat`
+
+</td>
+
 </tr>
+
 </table>
 
 ---
@@ -247,15 +290,15 @@ IoT-based RFID attendance system using ESP32, MQTT, and a web-based monitoring s
 
 ## 📚 Currently Learning
 
-* 🤖 Artificial Intelligence
-* 🧠 AI Agent Architecture
-* 💻 Full-Stack Development
-* ⚙️ Backend Architecture
-* 📱 Mobile Application Development
-* 🎮 Game Development
-* 🔐 Application Security
-* 🏗️ System Design
-* 🎨 UI/UX Design
+- 🤖 Artificial Intelligence
+- 🧠 AI Agent Architecture
+- 💻 Full-Stack Development
+- ⚙️ Backend Architecture
+- 📱 Mobile Application Development
+- 🎮 Game Development
+- 🔐 Application Security
+- 🏗️ System Design
+- 🎨 UI/UX Design
 
 ---
 
@@ -285,8 +328,8 @@ IoT-based RFID attendance system using ESP32, MQTT, and a web-based monitoring s
 <p align="center">
 
 <img
-src="https://raw.githubusercontent.com/iiiikimii/iiiikimii/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
+ src="https://raw.githubusercontent.com/iiiikimii/iiiikimii/output/github-contribution-grid-snake-dark.svg"
+ alt="GitHub Contribution Snake"
 />
 
 </p>
@@ -306,3 +349,4 @@ alt="GitHub Contribution Snake"
 <p align="center">
   <i>"Build things. Break things. Learn from both."</i> ✨
 </p>
+```
