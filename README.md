@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=850&color=22D3EE&center=true&vCenter=true&width=720&lines=Informatics+Student;Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+Software+and+Learning+Every+Day" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=850&color=22D3EE&center=true&vCenter=true&width=760&lines=Informatics+Student;Full-Stack+Developer;Automation+%26+AI+Enthusiast;Building+Projects+One+Day+at+a+Time" alt="Typing introduction" />
 </p>
 
 <h1 align="center">
@@ -8,79 +8,106 @@
 </h1>
 
 <p align="center">
-  <b>Software Development · AI · Automation · Web Development</b><br />
+  <b>Software Development · Full-Stack · Automation · AI · IoT</b><br />
   Indonesia · Informatics Student
 </p>
 
----
-
-### 👋 About Me
-
-I'm **Kimi Bashori**, an Informatics student interested in building software, automation systems, and AI-powered applications.
-
-I enjoy learning by turning ideas into real projects, experimenting with different technologies, and continuously improving my development skills.
-
-* 🎓 Informatics Student
-* 💻 Full-Stack Development
-* 🤖 AI & AI Agent Exploration
-* ⚙️ Automation & Software Engineering
-* 🌐 Web Application Development
-* 🎨 UI/UX & Figma
-* 🚀 Always learning and building
-
----
-
-### 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,php,python,go,html,mysql,postgres,figma" />
+  <a href="https://github.com/iiiikimii">
+    <img src="https://img.shields.io/badge/GitHub-iiiikimii-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
 </p>
 
 ---
 
-### 🚀 My Projects
+## 👋 About Me
+
+I'm **Kimi Bashori**, an Informatics student who enjoys turning ideas into functional software.
+
+My projects cover **full-stack web development, automation, artificial intelligence, IoT, and system development**. I enjoy experimenting with different technologies and building projects to strengthen both my technical skills and problem-solving ability.
+
+I'm especially interested in:
+
+* 💻 Full-Stack Web Development
+* 🤖 Artificial Intelligence & AI Agents
+* ⚙️ Automation Systems
+* 🌐 Backend & API Development
+* 📡 IoT & Embedded Systems
+* 🎨 UI/UX & Product Design
+* 🧠 Software Engineering
+* 🚀 Learning through real-world projects
+
+> **Build. Experiment. Break. Fix. Repeat.**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,php,go,html,css" />
+</p>
+
+### Frameworks & Runtime
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite" />
+</p>
+
+### Database & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mqtt" />
+</p>
+
+### Tools & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,canva,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 frontend-bot
+<h3>🤖 frontend-bot</h3>
 
-Social media automation application with a modern web interface for managing automated comment processes and multiple accounts.
+<p>
+A web interface for a social media automation system designed to manage automated comment processes, accounts, and automation workflows.
+</p>
 
-**Tech:** React · JavaScript · Node.js
+<p>
+<b>Tech:</b><br>
+React · JavaScript · Vite · Node.js
+</p>
 
-</td>
-
-<td width="50%">
-
-### 🗳️ voting-frontend
-
-Frontend application for a digital voting system with a modern user interface and voting workflow.
-
-**Tech:** React · JavaScript
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚙️ voting-backend
-
-Backend service for the voting system, handling application logic, APIs and data processing.
-
-**Tech:** Node.js · JavaScript
+<a href="https://github.com/iiiikimii/frontend-bot">
+  <img src="https://img.shields.io/badge/View_Repository-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
 <td width="50%">
 
-### 🧠 xray-autoencoder
+<h3>🗳️ voting-frontend</h3>
 
-Machine learning project exploring an autoencoder approach for X-ray image processing.
+<p>
+Modern frontend application for a digital voting platform, focusing on user interaction, voting workflows, and a clean web interface.
+</p>
 
-**Tech:** Python · Machine Learning
+<p>
+<b>Tech:</b><br>
+React · JavaScript · Vite
+</p>
+
+<a href="https://github.com/iiiikimii/voting-frontend">
+  <img src="https://img.shields.io/badge/View_Repository-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
@@ -88,21 +115,39 @@ Machine learning project exploring an autoencoder approach for X-ray image proce
 <tr>
 <td width="50%">
 
-### 👨‍💼 kimmanage
+<h3>⚙️ voting-backend</h3>
 
-Management-oriented software project designed to organize and manage application data and workflows.
+<p>
+Backend service supporting the digital voting application, including API endpoints, application logic, and data processing.
+</p>
 
-**Tech:** JavaScript · Web Development
+<p>
+<b>Tech:</b><br>
+Node.js · JavaScript · REST API
+</p>
+
+<a href="https://github.com/iiiikimii/voting-backend">
+  <img src="https://img.shields.io/badge/View_Repository-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
 <td width="50%">
 
-### 🍔 sistem-kasir
+<h3>🧠 xray-autoencoder</h3>
 
-Restaurant cashier and management system for **Dapur Ina Aina**, covering ordering, transactions, products, users and reports.
+<p>
+Machine learning exploration using an autoencoder approach for processing and experimenting with X-ray image data.
+</p>
 
-**Tech:** React · Node.js · MySQL
+<p>
+<b>Tech:</b><br>
+Python · Machine Learning · Autoencoder
+</p>
+
+<a href="https://github.com/iiiikimii/xray-autoencoder">
+  <img src="https://img.shields.io/badge/View_Repository-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
@@ -110,15 +155,75 @@ Restaurant cashier and management system for **Dapur Ina Aina**, covering orderi
 <tr>
 <td width="50%">
 
-### 📡 rfidxiot
+<h3>👨‍💼 kimmanage</h3>
 
-IoT-based RFID attendance system using ESP32 with web-based monitoring.
+<p>
+A management-oriented web application focused on organizing data, managing workflows, and implementing practical software functionality.
+</p>
 
-**Tech:** ESP32 · MQTT · React · Node.js · MySQL
+<p>
+<b>Tech:</b><br>
+JavaScript · Web Development
+</p>
+
+<a href="https://github.com/iiiikimii/kimmanage">
+  <img src="https://img.shields.io/badge/View_Repository-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 
 <td width="50%">
+
+<h3>🍔 sistem kasir</h3>
+
+<p>
+Restaurant cashier and management system developed for <b>Dapur Ina Aina</b>, covering ordering, transactions, products, users, and sales reporting.
+</p>
+
+<p>
+<b>Tech:</b><br>
+React · Node.js · JavaScript · MySQL
+</p>
+
+<a href="https://github.com/iiiikimii/sistem-kasir">
+  <img src="https://img.shields.io/badge/View_Repository-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>📡 rfidxiot</h3>
+
+<p>
+IoT-based RFID attendance system using ESP32 with MQTT communication and web-based monitoring for attendance data.
+</p>
+
+<p>
+<b>Tech:</b><br>
+ESP32 · RFID · MQTT · React · Node.js · MySQL
+</p>
+
+<a href="https://github.com/iiiikimii/rfidxiot">
+  <img src="https://img.shields.io/badge/View_Repository-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🚧 More Projects Coming</h3>
+
+<p>
+I'm continuously building and experimenting with new applications, tools, games, automation systems, and other software projects.
+</p>
+
+<p>
+<b>Goal:</b><br>
+Learn something new. Build something useful.
+</p>
 
 </td>
 </tr>
@@ -126,35 +231,78 @@ IoT-based RFID attendance system using ESP32 with web-based monitoring.
 
 ---
 
-### 🧪 Interests
+## 🎯 What I Build
 
-`Artificial Intelligence` · `AI Agents` · `Automation` · `Full-Stack Development` · `React.js` · `Node.js` · `Software Engineering` · `IoT`
+```text
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│  💻 Web Applications                            │
+│  ├── Frontend Development                       │
+│  ├── Backend & REST APIs                        │
+│  └── Full-Stack Systems                         │
+│                                                 │
+│  🤖 Automation                                  │
+│  ├── Social Media Automation                    │
+│  ├── Bot Systems                                │
+│  └── Workflow Automation                        │
+│                                                 │
+│  🧠 Artificial Intelligence                     │
+│  ├── Machine Learning                           │
+│  ├── AI Experiments                             │
+│  └── AI Agent Exploration                       │
+│                                                 │
+│  📡 Internet of Things                          │
+│  ├── ESP32                                      │
+│  ├── RFID                                       │
+│  └── MQTT                                       │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
 
 ---
 
-### 🌱 Currently Learning
+## 📚 Currently Learning
 
-* Artificial Intelligence
-* AI Agent Architecture
-* Modern Web Development
-* Backend Development
-* Mobile Application Development
-* System Design
-* UI/UX Design
+* 🤖 Artificial Intelligence
+* 🧠 AI Agent Architecture
+* 💻 Advanced Full-Stack Development
+* ⚙️ Backend Architecture
+* 📱 Mobile Application Development
+* 🏗️ System Design
+* 🎨 UI/UX Design
+* 🔐 Software & Application Security
+
+---
+
+## 🧪 Areas of Interest
+
+<p align="center">
+
+`Full-Stack Development`
+`Artificial Intelligence`
+`AI Agents`
+`Automation`
+`Backend Development`
+`React.js`
+`Node.js`
+`IoT`
+`ESP32`
+`MQTT`
+`Software Engineering`
+`UI/UX`
+
+</p>
 
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<!-- Live badges (shields.io - stabil, tidak butuh Vercel) -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/iiiikimii?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" alt="Followers" />
   <img src="https://img.shields.io/github/stars/iiiikimii?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=38BDF8" alt="Stars" />
-  <img src="https://img.shields.io/badge/Repos-Public-0D1117?style=for-the-badge&logo=git&logoColor=22D3EE" alt="Repos" />
   <img src="https://komarev.com/ghpvc/?username=iiiikimii&label=Profile+Views&style=for-the-badge&color=22D3EE&labelColor=0D1117" alt="Profile Views" />
 </p>
 
-<!-- Streak -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=iiiikimii&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8"
@@ -162,27 +310,81 @@ IoT-based RFID attendance system using ESP32 with web-based monitoring.
   />
 </p>
 
-<!-- Contribution Snake -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiiikimii/iiiikimii/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iiiikimii/iiiikimii/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/iiiikimii/iiiikimii/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
-
-<!-- Contribution Chart (stabil) -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/22d3ee/iiiikimii" alt="Contribution Chart" width="90%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=iiiikimii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiiikimii&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-<!-- Connect -->
+## 🐍 Contribution Activity
+
 <p align="center">
-  <a href="https://github.com/iiiikimii">
-    <img src="https://img.shields.io/badge/GitHub-iiiikimii-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/iiiikimii/iiiikimii/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/22d3ee/iiiikimii"
+    alt="GitHub Contribution Chart"
+    width="90%"
+  />
+</p>
+
+---
+
+## 📈 My Development Journey
+
+```text
+2024 ─────────────── Automation & Web Development
+                         │
+                         ▼
+2025 ─────────────── Full-Stack & Backend
+                         │
+                         ▼
+2026 ─────────────── AI · IoT · Software Engineering
+                         │
+                         ▼
+2026+ ────────────── Build More · Learn More
+```
+
+---
+
+## 💡 Development Philosophy
+
+<p align="center">
+
+<b>Don't wait until you know everything.</b><br>
+Build something. Make mistakes. Understand why it broke.<br>
+Fix it. Improve it. Build something better.
+
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+
+<a href="https://github.com/iiiikimii">
+  <img src="https://img.shields.io/badge/GitHub-iiiikimii-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iiiikimii&color=22D3EE&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
