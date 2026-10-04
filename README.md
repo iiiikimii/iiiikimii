@@ -27,7 +27,7 @@
 
 I'm **Kimi Bashori**, an Informatics student from Indonesia who enjoys building practical software and exploring different areas of technology.
 
-My projects range from **full-stack web applications and automation systems to AI experiments and IoT projects**.
+My projects range from **full-stack web applications and automation systems to AI experiments, IoT projects, and interactive applications**.
 
 I learn best by building things, breaking things, and figuring out how to make them work better.
 
@@ -36,6 +36,7 @@ I learn best by building things, breaking things, and figuring out how to make t
 * 🤖 Automation & Bot Development
 * 🧠 AI & Machine Learning Exploration
 * 📡 IoT & ESP32
+* 🎮 Interactive & Game Applications
 * 🎨 UI/UX Design
 * ⚙️ Backend & API Development
 * 🚀 Always learning and building
@@ -85,6 +86,22 @@ I learn best by building things, breaking things, and figuring out how to make t
 <tr>
 <td width="50%" valign="top">
 
+### 🎮 GameHub
+
+A full-stack game platform designed to bring multiple gaming-related features into a single modern web application.
+
+**Tech Stack**
+
+`React` `JavaScript` `Node.js`
+
+<a href="https://github.com/iiiikimii/GameHub">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🤖 frontend-bot
 
 Social media automation web application for managing automated comment processes and multiple accounts.
@@ -98,7 +115,9 @@ Social media automation web application for managing automated comment processes
 </a>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 🗳️ voting-frontend
@@ -114,9 +133,7 @@ Modern frontend for a digital voting system with a clean interface and structure
 </a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### ⚙️ voting-backend
@@ -132,7 +149,9 @@ Backend service for the digital voting system, providing APIs and application lo
 </a>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 🧠 xray-autoencoder
@@ -148,9 +167,7 @@ Machine learning project exploring an autoencoder approach for X-ray image proce
 </a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 👨‍💼 kimmanage
@@ -166,7 +183,9 @@ Management-oriented software project focused on organizing data and application 
 </a>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 🍔 sistem-kasir
@@ -182,9 +201,7 @@ Cashier and restaurant management system for **Dapur Ina Aina**, covering orderi
 </a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 📡 rfidxiot
@@ -200,18 +217,6 @@ IoT-based RFID attendance system using ESP32, MQTT, and a web-based monitoring s
 </a>
 
 </td>
-
-<td width="50%" valign="top">
-
-### 🚀 More Projects
-
-I'm continuously building new applications, experiments, tools, and games to expand my portfolio and learn new technologies.
-
-**Current Goal**
-
-`Build → Learn → Improve → Repeat`
-
-</td>
 </tr>
 </table>
 
@@ -225,6 +230,7 @@ I'm continuously building new applications, experiments, tools, and games to exp
 <img src="https://img.shields.io/badge/Artificial-Intelligence-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Automation-F97316?style=for-the-badge" />
 <img src="https://img.shields.io/badge/IoT-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Game-Development-EC4899?style=for-the-badge" />
 
 </p>
 
@@ -246,6 +252,7 @@ I'm continuously building new applications, experiments, tools, and games to exp
 * 💻 Full-Stack Development
 * ⚙️ Backend Architecture
 * 📱 Mobile Application Development
+* 🎮 Game Development
 * 🔐 Application Security
 * 🏗️ System Design
 * 🎨 UI/UX Design
@@ -278,8 +285,8 @@ I'm continuously building new applications, experiments, tools, and games to exp
 <p align="center">
 
 <img
- src="https://raw.githubusercontent.com/iiiikimii/iiiikimii/output/github-contribution-grid-snake-dark.svg"
- alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/iiiikimii/iiiikimii/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
 />
 
 </p>
