@@ -1,4 +1,3 @@
-```html
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=850&color=22D3EE&center=true&vCenter=true&width=750&lines=Informatics+Student;Full-Stack+Developer;Automation+Enthusiast;AI+%26+IoT+Explorer;Building+and+Learning+Every+Day"
