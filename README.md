@@ -1,43 +1,44 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=850&color=22D3EE&center=true&vCenter=true&width=760&lines=Informatics+Student;Full-Stack+Developer;Automation+%26+AI+Enthusiast;Building+Projects+One+Day+at+a+Time" alt="Typing introduction" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=850&color=22D3EE&center=true&vCenter=true&width=750&lines=Informatics+Student;Full-Stack+Developer;Automation+Enthusiast;AI+%26+IoT+Explorer;Building+and+Learning+Every+Day"
+    alt="Typing introduction"
+  />
 </p>
 
-<h1 align="center">
-  Kimi Bashori
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB-Developer-111827?style=flat" alt="Developer" />
-</h1>
+<h1 align="center">Hi, I'm Kimi Bashori 👋</h1>
 
 <p align="center">
-  <b>Software Development · Full-Stack · Automation · AI · IoT</b><br />
-  Indonesia · Informatics Student
+  <b>Informatics Student · Full-Stack Developer · Automation Enthusiast</b>
+</p>
+
+<p align="center">
+  Building software, experimenting with new technologies, and learning through real projects.
 </p>
 
 <p align="center">
   <a href="https://github.com/iiiikimii">
-    <img src="https://img.shields.io/badge/GitHub-iiiikimii-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/GitHub-iiiikimii-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm **Kimi Bashori**, an Informatics student who enjoys turning ideas into functional software.
+I'm **Kimi Bashori**, an Informatics student from Indonesia who enjoys building practical software and exploring different areas of technology.
 
-My projects cover **full-stack web development, automation, artificial intelligence, IoT, and system development**. I enjoy experimenting with different technologies and building projects to strengthen both my technical skills and problem-solving ability.
+My projects range from **full-stack web applications and automation systems to AI experiments and IoT projects**.
 
-I'm especially interested in:
+I learn best by building things, breaking things, and figuring out how to make them work better.
 
+* 🎓 Informatics Student
 * 💻 Full-Stack Web Development
-* 🤖 Artificial Intelligence & AI Agents
-* ⚙️ Automation Systems
-* 🌐 Backend & API Development
-* 📡 IoT & Embedded Systems
-* 🎨 UI/UX & Product Design
-* 🧠 Software Engineering
-* 🚀 Learning through real-world projects
-
-> **Build. Experiment. Break. Fix. Repeat.**
+* 🤖 Automation & Bot Development
+* 🧠 AI & Machine Learning Exploration
+* 📡 IoT & ESP32
+* 🎨 UI/UX Design
+* ⚙️ Backend & API Development
+* 🚀 Always learning and building
 
 ---
 
@@ -55,20 +56,16 @@ I'm especially interested in:
   <img src="https://skillicons.dev/icons?i=react,nodejs,vite" />
 </p>
 
-### Database & Infrastructure
+### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-### Hardware & Communication
+### IoT & Communication
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
   <img src="https://img.shields.io/badge/RFID-143F66?style=for-the-badge&logoColor=white" />
 </p>
@@ -77,9 +74,6 @@ I'm especially interested in:
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
@@ -89,157 +83,133 @@ I'm especially interested in:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🤖 frontend-bot</h3>
+### 🤖 frontend-bot
 
-<p>
-A web interface for a social media automation system designed to manage automated comment processes, accounts, and automation workflows.
-</p>
+Social media automation web application for managing automated comment processes and multiple accounts.
 
-<p>
-<b>Tech:</b><br>
-React · JavaScript · Vite · Node.js
-</p>
+**Tech Stack**
+
+`React` `JavaScript` `Vite` `Node.js`
 
 <a href="https://github.com/iiiikimii/frontend-bot">
-  <img src="https://img.shields.io/badge/View_Repository-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🗳️ voting-frontend</h3>
+### 🗳️ voting-frontend
 
-<p>
-Modern frontend application for a digital voting platform, focusing on user interaction, voting workflows, and a clean web interface.
-</p>
+Modern frontend for a digital voting system with a clean interface and structured voting workflow.
 
-<p>
-<b>Tech:</b><br>
-React · JavaScript · Vite
-</p>
+**Tech Stack**
+
+`React` `JavaScript` `Vite`
 
 <a href="https://github.com/iiiikimii/voting-frontend">
-  <img src="https://img.shields.io/badge/View_Repository-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>⚙️ voting-backend</h3>
+### ⚙️ voting-backend
 
-<p>
-Backend service supporting the digital voting application, including API endpoints, application logic, and data processing.
-</p>
+Backend service for the digital voting system, providing APIs and application logic for the voting process.
 
-<p>
-<b>Tech:</b><br>
-Node.js · JavaScript · REST API
-</p>
+**Tech Stack**
+
+`Node.js` `JavaScript` `REST API`
 
 <a href="https://github.com/iiiikimii/voting-backend">
-  <img src="https://img.shields.io/badge/View_Repository-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🧠 xray-autoencoder</h3>
+### 🧠 xray-autoencoder
 
-<p>
-Machine learning exploration using an autoencoder approach for processing and experimenting with X-ray image data.
-</p>
+Machine learning project exploring an autoencoder approach for X-ray image processing.
 
-<p>
-<b>Tech:</b><br>
-Python · Machine Learning · Autoencoder
-</p>
+**Tech Stack**
+
+`Python` `Machine Learning` `Autoencoder`
 
 <a href="https://github.com/iiiikimii/xray-autoencoder">
-  <img src="https://img.shields.io/badge/View_Repository-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>👨‍💼 kimmanage</h3>
+### 👨‍💼 kimmanage
 
-<p>
-A management-oriented web application focused on organizing data, managing workflows, and implementing practical software functionality.
-</p>
+Management-oriented software project focused on organizing data and application workflows.
 
-<p>
-<b>Tech:</b><br>
-JavaScript · Web Development
-</p>
+**Tech Stack**
+
+`JavaScript` `Web Development`
 
 <a href="https://github.com/iiiikimii/kimmanage">
-  <img src="https://img.shields.io/badge/View_Repository-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🍔 sistem-kasir</h3>
+### 🍔 sistem-kasir
 
-<p>
-Restaurant cashier and management system developed for <b>Dapur Ina Aina</b>, covering ordering, transactions, products, users, and sales reporting.
-</p>
+Cashier and restaurant management system for **Dapur Ina Aina**, covering ordering, transactions, products, users, and sales reports.
 
-<p>
-<b>Tech:</b><br>
-React · Node.js · JavaScript · MySQL
-</p>
+**Tech Stack**
+
+`React` `Node.js` `JavaScript` `MySQL`
 
 <a href="https://github.com/iiiikimii/sistem-kasir">
-  <img src="https://img.shields.io/badge/View_Repository-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>📡 rfidxiot</h3>
+### 📡 rfidxiot
 
-<p>
-IoT-based RFID attendance system using ESP32 with MQTT communication and web-based monitoring for attendance data.
-</p>
+IoT-based RFID attendance system using ESP32, MQTT, and a web-based monitoring system.
 
-<p>
-<b>Tech:</b><br>
-ESP32 · RFID · MQTT · React · Node.js · MySQL
-</p>
+**Tech Stack**
+
+`ESP32` `RFID` `MQTT` `React` `Node.js` `MySQL`
 
 <a href="https://github.com/iiiikimii/rfidxiot">
-  <img src="https://img.shields.io/badge/View_Repository-22D3EE?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🚧 More Projects Coming</h3>
+### 🚀 More Projects
 
-<p>
-I'm continuously building and experimenting with new applications, tools, games, automation systems, and other software projects.
-</p>
+I'm continuously building new applications, experiments, tools, and games to expand my portfolio and learn new technologies.
 
-<p>
-<b>Goal:</b><br>
-Learn something new. Build something useful.
-</p>
+**Current Goal**
+
+`Build → Learn → Improve → Repeat`
 
 </td>
 </tr>
@@ -247,33 +217,25 @@ Learn something new. Build something useful.
 
 ---
 
-## 🎯 What I Build
+## 🎯 Areas of Interest
 
-```text
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  💻 Web Applications                            │
-│  ├── Frontend Development                       │
-│  ├── Backend & REST APIs                        │
-│  └── Full-Stack Systems                         │
-│                                                 │
-│  🤖 Automation                                  │
-│  ├── Social Media Automation                    │
-│  ├── Bot Systems                                │
-│  └── Workflow Automation                        │
-│                                                 │
-│  🧠 Artificial Intelligence                     │
-│  ├── Machine Learning                           │
-│  ├── AI Experiments                             │
-│  └── AI Agent Exploration                       │
-│                                                 │
-│  📡 Internet of Things                          │
-│  ├── ESP32                                      │
-│  ├── RFID                                       │
-│  └── MQTT                                       │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
+<p align="center">
+
+<img src="https://img.shields.io/badge/Full--Stack-Development-22D3EE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Artificial-Intelligence-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IoT-10B981?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+
+</p>
 
 ---
 
@@ -281,42 +243,25 @@ Learn something new. Build something useful.
 
 * 🤖 Artificial Intelligence
 * 🧠 AI Agent Architecture
-* 💻 Advanced Full-Stack Development
+* 💻 Full-Stack Development
 * ⚙️ Backend Architecture
 * 📱 Mobile Application Development
+* 🔐 Application Security
 * 🏗️ System Design
 * 🎨 UI/UX Design
-* 🔐 Software & Application Security
 
 ---
 
-## 🧪 Areas of Interest
+## 📊 GitHub Activity
 
 <p align="center">
 
-`Full-Stack Development`
-`Artificial Intelligence`
-`AI Agents`
-`Automation`
-`Backend Development`
-`React.js`
-`Node.js`
-`IoT`
-`ESP32`
-`MQTT`
-`Software Engineering`
-`UI/UX`
+<img src="https://img.shields.io/github/followers/iiiikimii?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0D1117&color=22D3EE" />
 
-</p>
+<img src="https://img.shields.io/github/stars/iiiikimii?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=0D1117&color=38BDF8" />
 
----
+<img src="https://komarev.com/ghpvc/?username=iiiikimii&label=Profile+Views&style=for-the-badge&color=22D3EE&labelColor=0D1117" />
 
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/iiiikimii?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=22D3EE" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/iiiikimii?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=38BDF8" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=iiiikimii&label=Profile+Views&style=for-the-badge&color=22D3EE&labelColor=0D1117" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -328,21 +273,15 @@ Learn something new. Build something useful.
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/iiiikimii/iiiikimii/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/22d3ee/iiiikimii"
-    alt="GitHub Contribution Chart"
-    width="90%"
-  />
+<img
+ src="https://raw.githubusercontent.com/iiiikimii/iiiikimii/output/github-contribution-grid-snake-dark.svg"
+ alt="GitHub Contribution Snake"
+/>
+
 </p>
 
 ---
@@ -356,8 +295,6 @@ Learn something new. Build something useful.
 </a>
 
 </p>
-
----
 
 <p align="center">
   <i>"Build things. Break things. Learn from both."</i> ✨
