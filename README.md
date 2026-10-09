@@ -348,4 +348,3 @@ I'm continuously building new applications, experiments, tools, and games to exp
 <p align="center">
   <i>"Build things. Break things. Learn from both."</i> ✨
 </p>
-```
