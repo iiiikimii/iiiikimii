@@ -304,19 +304,19 @@ I'm continuously building new applications, experiments, tools, and games to exp
 ## 📊 GitHub Activity
 
 <p align="center">
-
-<img src="https://img.shields.io/github/followers/iiiikimii?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0D1117&color=22D3EE" />
-
-<img src="https://img.shields.io/github/stars/iiiikimii?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=0D1117&color=38BDF8" />
-
-<img src="https://komarev.com/ghpvc/?username=iiiikimii&label=Profile+Views&style=for-the-badge&color=22D3EE&labelColor=0D1117" />
-
+  <a href="https://github.com/iiiikimii">
+    <img src="https://img.shields.io/github/followers/iiiikimii?label=Followers&style=for-the-badge&logo=github&color=22D3EE" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/iiiikimii?tab=repositories">
+    <img src="https://img.shields.io/github/stars/iiiikimii?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=38BDF8" alt="GitHub Stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=iiiikimii&label=Profile%20Views&style=for-the-badge&color=22D3EE" alt="Profile Views" />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=iiiikimii&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=iiiikimii&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
