@@ -305,8 +305,8 @@ I'm continuously building new applications, experiments, tools, and games to exp
 
 <p align="center">
   <a href="https://github.com/iiiikimii">
-    <img src="https://img.shields.io/github/followers/iiiikimii?label=Followers&style=for-the-badge&logo=github&color=22D3EE" alt="GitHub Followers" />
-  </a>
+  <img src="https://img.shields.io/github/followers/iiiikimii?style=for-the-badge" alt="GitHub Followers" />
+</a>
   <a href="https://github.com/iiiikimii?tab=repositories">
     <img src="https://img.shields.io/github/stars/iiiikimii?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=38BDF8" alt="GitHub Stars" />
   </a>
